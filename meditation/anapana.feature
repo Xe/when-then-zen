@@ -62,3 +62,15 @@ Feature: Anapana meditation
     Then I become mindful of the sensations of breathing
     Then I continue for a moment or two
     Then I shift into mindfulness of unconscious breathing
+
+  Scenario Outline: imagery during breathing
+    As a meditator
+    In order to symbolically link anapana to destressing
+    Given an understanding that this is symbolic and not literal
+    When I <verb>
+    Then I feel <action>
+
+    Examples:
+      | verb   | action                                           |
+      | inhale | peaceful air flowing in through the nose         |
+      | exhale | the stresses of the day leaving through the nose |
