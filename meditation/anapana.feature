@@ -24,17 +24,19 @@ Feature: Anapana meditation
     And I am seated or laying down comfortably
     And no music is playing
 
-  Scenario: mindfulness of breathing
+  Scenario Outline: mindfulness of breathing
     As a meditator
     In order to be mindful of the body's breath
-    When I take an inhale through the body's nose
+    When I <verb> through the body's nose
     Then I focus on the sensations of breath
     Then I focus on the feelings of breath through the nasal cavity
     Then I focus on the feelings of breath interacting with the nostrils
-    When I exhale through the body's nose
-    Then I focus on the feelings of breath through the nasal cavity
-    Then I focus on the feelings of breath interacting with the nostrils
     Then I repeat until done
+
+    Examples:
+      | verb   |
+      | inhale |
+      | exhale |
 
   Scenario: attention drifts away from mindfulness of breathing
     As a meditator
