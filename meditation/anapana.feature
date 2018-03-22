@@ -1,21 +1,24 @@
 Feature: Anapana meditation
-  Ānāpānasati (Pali; Sanskrit ānāpānasmṛti), meaning "mindfulness of breathing" ("sati" means mindfulness; 
-  "ānāpāna" refers to inhalation and exhalation[1]), is a form of Buddhist meditation originally taught by 
-  Gautama Buddha in several suttas including the Ānāpānasati Sutta.[2] (MN 118)
+  Ānāpānasati (Pali; Sanskrit ānāpānasmṛti), meaning "mindfulness of breathing" 
+  ("sati" means mindfulness; "ānāpāna" refers to inhalation and exhalation[1]),
+  is a form of Buddhist meditation originally taught by Gautama Buddha in 
+  several suttas including the Ānāpānasati Sutta.[2] (MN 118)
   
-  Ānāpānasati is now common to Tibetan, Zen, Tiantai and Theravada Buddhism as well as Western-based 
-  mindfulness programs. Simply defined, Anapanasati is to feel the sensations caused by the movements of 
-  the breath in the body as is practiced in the context of mindfulness meditation.
+  Ānāpānasati is now common to Tibetan, Zen, Tiantai and Theravada Buddhism as 
+  well as Western-based mindfulness programs. Simply defined, Anapanasati is to
+  feel the sensations caused by the movements of the breath in the body as is 
+  practiced in the context of mindfulness meditation.
   # Source: https://en.wikipedia.org/wiki/Anapanasati
 
-  The method presented in this document is based on the method taught in The Art Of Living by William Hart
-  and S.N. Goenka. If you want a copy of this book you can get one here: http://www.cicp.org.kh/userfiles/file/Publications/Art%20of%20Living%20in%20English.pdf
-  Please do keep in mind that this book definitely skews towards the Buddhist lens and as it is presented
-  the teaching methods really benefit from it.
+  The method presented in this document is based on the method taught in The Art
+  Of Living by William Hart and S.N. Goenka. If you want a copy of this book you
+  can get one here: http://www.cicp.org.kh/userfiles/file/Publications/Art%20of%20Living%20in%20English.pdf
+  Please do keep in mind that this book definitely skews towards the Buddhist 
+  lens and as it is presented the teaching methods really benefit from it.
 
-  Note: "the body" means the sack of meat and bone that you are currently living inside. For the purposes
-  of explanation of this and other techniques, please consider what makes you yourself separate from the
-  body you live in.
+  Note: "the body" means the sack of meat and bone that you are currently living
+  inside. For the purposes of explanation of this and other techniques, please 
+  consider what makes you yourself separate from the body you live in.
   
   Background:
     Given no assumption about meditation background
