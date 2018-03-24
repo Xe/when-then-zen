@@ -1,4 +1,4 @@
-Feature: Loving-kindless (metta) meditation
+Feature: Loving-kindness (metta) meditation
   Metta is a loving-kindness form of compassion meditation. There are many ways
   to perform it, but this feature currently focuses on a chanting understanding
   method. At a high level a lot of the "magic" will boil down to the four 
