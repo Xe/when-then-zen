@@ -62,7 +62,26 @@ Feature: Loving-kindness (metta) meditation
     Then enforce the mantra "May I be free from mental suffering"
     Then enforce the mantra "May I be free from physical suffering"
     Then enforce the mantra "May I take care of myself happily"
+    And let this metta radiate out of you
     Then repeat until the alarm goes off
+
+  Scenario: Affirmations for metta mantras to self
+    # This is optional, the author of this feature finds it helpful.
+    # The general idea is that your mind should be filled with the opposite of
+    # what the mantra suggests. IE: danger -> compassion, mental suffering ->
+    # friendliness, etc. The difference between what is spoken, felt and thought
+    # serves as a harmony of sorts.
+    As a meditator
+    In order to figuratively increase perception of metta
+    When you start to give yourself metta
+    Then enforce the mantra "May I be free from danger"
+    And fill your thoughts with compassion for yourself
+    Then enforce the mantra "May I be free from mental suffering"
+    And fill your mind with friendliness for yourself
+    Then enforce the mantra "May I be free from physical suffering"
+    And fill your heart with empathy for yourself
+    Then enforce the mantra "May I take care of myself happily"
+    And let this metta radiate out of you
 
   Scenario: Giving metta to someone else
     As a meditator
@@ -73,6 +92,18 @@ Feature: Loving-kindness (metta) meditation
     And a ten minute alarm
     When you start to give them metta
     Then enforce the mantra "May they be free from danger"
+    Then enforce the mantra "May they be free from mental suffering"
+    Then enforce the mantra "May they be free from physical suffering"
+    Then enforce the mantra "May they take care of themselves happily"
+    And let this metta radiate out of you
+    Then repeat until the alarm goes off
+
+  Scenario: Affirmations for metta mantras to others
+    # This is optional, the author of this feature finds it helpful.
+    As a meditator
+    In order to figuratively increase perception of metta
+    When you start to give them metta
+    Then enforce the mantra "May they be free from danger"
     And fill your thoughts with compassion for them
     Then enforce the mantra "May they be free from mental suffering"
     And fill your mind with friendliness for them
@@ -80,4 +111,3 @@ Feature: Loving-kindness (metta) meditation
     And fill your heart with empathy for them
     Then enforce the mantra "May they take care of themselves happily"
     And let this metta radiate out of you
-    Then repeat until the alarm goes off
