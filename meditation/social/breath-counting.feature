@@ -1,11 +1,10 @@
-Feature: Social meditation practice tools
-  Group meditation is a very rewarding experience that too few people get to 
-  experience regularly. This feature contains group meditation exercises that 
-  have been tried and proven in small (2-3) and large (6-8) groups. If in a 
-  larger group, be sure to increase the count cap to a larger number, keep it
-  less than 15 to help avoid the numbers popping out of people's short-term 
-  memory (this can be waived depending on the group, practice will give you 
-  the context you need to understand this the best).
+Feature: Social Breath Counting
+  This feature contains social breath counting exercises that have been tried
+  and proven in small (2-3) and large (6-8) groups. If in a larger group, be
+  sure to increase the count cap to a larger number, keep it less than 15 to
+  help avoid the numbers popping out of people's short-term memory (this can
+  be waived depending on the group, practice will give you the context you
+  need to understand this the best).
 
   Background:
     Given no assumption about meditation background for any participant
