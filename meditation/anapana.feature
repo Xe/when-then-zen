@@ -55,18 +55,22 @@ Feature: Anapana meditation
     Then the body will start breathing for me after a moment or two
     Then I continue mindfulness of the sensations of breathing without controlling the breath
 
-  Scenario: 5 minute meditation session
+  Scenario Outline: meditation session
     As a meditator
-    In order to meditate for five minutes
+    In order to meditate for <time>
     Given the Clock app is open on a phone or tablet
     And the timer function is open
-    And the time is set for five minutes
+    And the time is set for <time>
     When I start the timer
     Then I clear my head of idle thoughts
     Then I start drifting my attention towards the sensations of breathing
     Then I become mindful of the sensations of breathing
     Then I continue for a moment or two
     Then I shift into mindfulness of unconscious breathing
+
+    Examples:
+      | time         |
+      | five minutes |
 
   Scenario Outline: imagery during breathing
     As a meditator
