@@ -58,10 +58,10 @@ Feature: Loving-kindness (metta) meditation
     # Adjust as needed, of course, these numbers are suggestions
     And a five minute alarm
     When you start to give yourself metta
-    Then enforce the mantra "May I be free from danger"
-    Then enforce the mantra "May I be free from mental suffering"
-    Then enforce the mantra "May I be free from physical suffering"
-    Then enforce the mantra "May I take care of myself happily"
+    Then enforce the mantra "May I be safe"
+    Then enforce the mantra "May I be healthy"
+    Then enforce the mantra "May I be at peace"
+    Then enforce the mantra "May I be happy"
     And let this metta radiate out of you
     Then repeat until the alarm goes off
 
