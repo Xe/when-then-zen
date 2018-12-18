@@ -4,10 +4,10 @@ Feature: Loving-kindness (metta) meditation
   method. At a high level a lot of the "magic" will boil down to the four 
   following mantras:
 
-  1. May I/they be free from danger/enmity
-  2. May I/they be free from mental suffering
-  3. May I/they be free from physical suffering
-  4. May I/they take care of myself/themselves happily
+  1. May I/they be safe
+  2. May I/they be healthy
+  3. May I/they be at peace
+  4. May I/they be happy
 
   The trick to speaking them out correctly is to not only to say them out loud,
   but to break them apart into what they mean as they are spoken. Effectively,
@@ -74,13 +74,13 @@ Feature: Loving-kindness (metta) meditation
     As a meditator
     In order to figuratively increase perception of metta
     When you start to give yourself metta
-    Then enforce the mantra "May I be free from danger"
+    Then enforce the mantra "May I be safe"
     And fill your thoughts with compassion for yourself
-    Then enforce the mantra "May I be free from mental suffering"
+    Then enforce the mantra "May I be healthy"
     And fill your mind with friendliness for yourself
-    Then enforce the mantra "May I be free from physical suffering"
+    Then enforce the mantra "May I be at peace"
     And fill your heart with empathy for yourself
-    Then enforce the mantra "May I take care of myself happily"
+    Then enforce the mantra "May I be happy"
     And let this metta radiate out of you
 
   Scenario: Giving metta to someone else
@@ -91,10 +91,10 @@ Feature: Loving-kindness (metta) meditation
     # Increase the session length with practice
     And a ten minute alarm
     When you start to give them metta
-    Then enforce the mantra "May they be free from danger"
-    Then enforce the mantra "May they be free from mental suffering"
-    Then enforce the mantra "May they be free from physical suffering"
-    Then enforce the mantra "May they take care of themselves happily"
+    Then enforce the mantra "May they be safe"
+    Then enforce the mantra "May they be healthy"
+    Then enforce the mantra "May they be at peace"
+    Then enforce the mantra "May they be happy"
     And let this metta radiate out of you
     Then repeat until the alarm goes off
 
@@ -103,11 +103,11 @@ Feature: Loving-kindness (metta) meditation
     As a meditator
     In order to figuratively increase perception of metta
     When you start to give them metta
-    Then enforce the mantra "May they be free from danger"
+    Then enforce the mantra "May they be safe"
     And fill your thoughts with compassion for them
-    Then enforce the mantra "May they be free from mental suffering"
+    Then enforce the mantra "May they be healthy"
     And fill your mind with friendliness for them
-    Then enforce the mantra "May they be free from physical suffering"
+    Then enforce the mantra "May they be at peace"
     And fill your heart with empathy for them
-    Then enforce the mantra "May they take care of themselves happily"
+    Then enforce the mantra "May they be happy"
     And let this metta radiate out of you
