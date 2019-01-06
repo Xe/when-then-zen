@@ -23,6 +23,13 @@ Feature: Paracosm Immersion
   If you want to read more on the topic, look here: https://en.m.wikipedia.org/wiki/Paracosm
   This subreddit may also be useful: https://www.reddit.com/r/paracosms/
   
+  > If you want to view paradise
+  > Simply look around and view it
+  > Anything you want to, do it
+  > Want to change the world?
+  > There's nothing to it
+  - Pure Imagination: https://youtu.be/SVi3-PrQ0pY
+  
   Background:
     Given you have a mental world in mind
     Or an image of what you would like to experience
