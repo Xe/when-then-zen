@@ -48,7 +48,7 @@ Feature: Void Meditation
       | hold my breath | six   |
       | exhale         | six   |
 
-  Scenario: Foucs on the here and now
+  Scenario: Focus on the here and now
     As a meditatior
     In order to focus on the here and now
     Given I am relaxed
