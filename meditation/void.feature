@@ -49,7 +49,7 @@ Feature: Void Meditation
       | exhale         | six   |
 
   Scenario: Focus on the here and now
-    As a meditatior
+    As a meditator
     In order to focus on the here and now
     Given I am relaxed
     And I have a time limit in mind
