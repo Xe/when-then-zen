@@ -4,7 +4,7 @@ Feature: Paracosm Immersion
   to create and immerse yourself into than people expect, almost deceptively so.
   
   The method explained in this document is roughly based on literal philosophical
-  metaphysical analysis (https://en.m.wikipedia.org/wiki/Metaphysics), or in
+  metaphysical analysis (https://en.wikipedia.org/wiki/Metaphysics), or in
   simpler terms: to answer the following two questions with as much detail and
   as generally as possible.
   
@@ -20,7 +20,7 @@ Feature: Paracosm Immersion
   It's really not hard unless you make it hard. Make it easy and it will be 
   trivial. I have been noting my progress here: https://write.as/ma-insa/
   
-  If you want to read more on the topic, look here: https://en.m.wikipedia.org/wiki/Paracosm
+  If you want to read more on the topic, look here: https://en.wikipedia.org/wiki/Paracosm
   This subreddit may also be useful: https://www.reddit.com/r/paracosms/
   
   > If you want to view paradise
