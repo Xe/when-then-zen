@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<title>{{html .Name}}</title>
+		<link rel="stylesheet" href="/gruvbox.css">
+	</head>
+	<body>
+    <main>
+      <nav class="nav">
+		    <h5><a href="/">When Then Zen</a></h5> -
+        <a href="/intro.md">Introduction</a> - 
+			  <a href="/meditation">Meditation</a> - 
+			  <a href="/skills">Skills</a> - 
+			  <a href="/terms.md">Terms</a>
+		  </nav>
+		  <h1>{{.Path}}</h1>
+
+      <ul>
+	  	  {{range .Items}}
+	 	    <li><a href="{{html .URL}}">{{html .Name}}</a></li>
+		    {{end}}
+      </ul>
+	  </main>
+  </body>
+</html> 

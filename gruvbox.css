@@ -5,27 +5,40 @@ main {
   max-width: 38rem;
   padding: 2rem;
   margin: auto;
-  background: #fbd1c7;
+}
+
+body {
+  background: #fbf1c7;
   color:      #3c3836;
 }
 
 pre {
-  background-color: #1d2021;
+  background-color: #ebdbb2;
   padding: 1em;
   border: 0;
 }
 
-a, a:active, a:visited { color: #d3869b; }
+a, a:active, a:visited {
+  color: #d3869b;
+  background-color: #fdf5d7;
+}
+
+h1, h2, h3, h4, h5 {
+  margin-bottom: .1rem;
+}
 
 @media (prefers-color-scheme: dark) {
-  main {
+  body {
     background: #282828;
     color:      #ebdbb2;
   }
 
   pre {
-    background-color: #6896da;
+    background-color: #3c3836;
   }
 
-  a, a:active, a:visited { color: #8f3f71; }
+  a, a:active, a:visited {
+    color: #b16286;
+    background-color: #1d2021;
+  }
 }
