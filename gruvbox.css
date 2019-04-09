@@ -1,0 +1,31 @@
+/* Gruvbox automatic */
+
+main {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 38rem;
+  padding: 2rem;
+  margin: auto;
+  background: #fbd1c7;
+  color:      #3c3836;
+}
+
+pre {
+  background-color: #1d2021;
+  padding: 1em;
+  border: 0;
+}
+
+a, a:active, a:visited { color: #d3869b; }
+
+@media (prefers-color-scheme: dark) {
+  main {
+    background: #282828;
+    color:      #ebdbb2;
+  }
+
+  pre {
+    background-color: #6896da;
+  }
+
+  a, a:active, a:visited { color: #8f3f71; }
+}

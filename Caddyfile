@@ -1,0 +1,16 @@
+when-then-zen.local.cetacean.club:5000 {
+	tls off
+	root .
+	internal /templates
+	internal /README.md
+	internal /LICENSE
+	internal /Caddyfile
+
+	rewrite / /README.md
+
+	markdown / {
+		template templates/page.html
+		template index templates/index.html
+	}
+}
+
