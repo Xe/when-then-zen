@@ -71,7 +71,13 @@ This is done for three basic reasons:
 1. Setting yourself right. You can't love others if you can't love yourself
 2. Understanding metta. You can't understand giving metta if you never experience it for yourself
 3. It's a good warmup for loving others
- 
+
+<style>
+img {
+  max-width: 100%;
+}
+</style>
+
 <center>![](https://i.imgur.com/P7MOfbP.jpg)</center>
 
 ## Scenario: Negative Harmonic Affirmations for Metta Mantras to Self
