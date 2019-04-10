@@ -1,4 +1,4 @@
-# When Then Zen: Anapana
+# Anapana
 
 ## Introduction
 
