@@ -1,4 +1,4 @@
-when-then-zen.local.cetacean.club:5000 {
+when-then-zen.christine.website:5000 {
 	tls off
 	root .
   internal /README.md
