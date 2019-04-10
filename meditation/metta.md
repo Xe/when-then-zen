@@ -39,11 +39,11 @@ following things to a mantra:
 
 ## Scenario: Nature Walking
     
-> As a meditator
-> In order to help me connect with the environment
-> Given a short route to walk on
-> When I walk down the route
-> Then I should relax and enjoy the scenery
+> As a meditator  
+> In order to help me connect with the environment  
+> Given a short route to walk on  
+> When I walk down the route  
+> Then I should relax and enjoy the scenery  
 > And feel the sensations of the world around me 
 
 This is optional  
@@ -82,17 +82,17 @@ img {
 
 ## Scenario: Negative Harmonic Affirmations for Metta Mantras to Self
 
-> As a meditator
-> In order to figuratively increase perception of metta
-> When you start to give yourself metta
-> Then enforce the mantra "May I be safe"
-> And empty your thoughts of compassion for yourself
-> Then enforce the mantra "May I be healthy"
-> And empty your mind of friendliness for yourself
-> Then enforce the mantra "May I be at peace"
-> And empty your heart of empathy for yourself
-> Then enforce the mantra "May I be happy"
-> And let this metta radiate out of you
+> As a meditator  
+> In order to figuratively increase perception of metta  
+> When you start to give yourself metta  
+> Then enforce the mantra "May I be safe"  
+> And empty your thoughts of compassion for yourself  
+> Then enforce the mantra "May I be healthy"  
+> And empty your mind of friendliness for yourself  
+> Then enforce the mantra "May I be at peace"  
+> And empty your heart of empathy for yourself  
+> Then enforce the mantra "May I be happy"  
+> And let this metta radiate out of you  
     
 This is optional, I find it helpful on really bad days. The general idea is that your mind should be filled with the opposite of what the mantra suggests. IE: danger -> compassion, mental suffering -> friendliness, etc. The difference between what is spoken, felt and thought serves as a harmony of sorts. It can be very powerful.
 
