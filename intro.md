@@ -105,7 +105,7 @@ sub-par teachers. A lot of it got so ingrained in the cuture that the actions
 themselves can be confused with the culture.
 
 I do not plan to set too many expectations for what people will experience.
-When possible, [I tell people to avoid having "spiritual experiences"](https://github.com/Xe/when-then-zen/blob/master/meditation/quantum-pause.feature#L12-L16).
+When possible, [I tell people to avoid having "spiritual experiences"](https://github.com/Xe/when-then-zen/blob/master/bonus/quantum-pause.feature#L12-L16).
 
 ## Other Topics I Want to Cover
 
