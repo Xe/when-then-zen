@@ -59,18 +59,18 @@ If you want to read more, look here: https://www.insightmeditationcenter.org/boo
 
 ## Scenario Outline: meditation session
 
-As a meditator
-In order to meditate for $time
-Given the Clock app is open on a phone or tablet
-And the timer function is open
-And the time is set for $time
-When I start the timer
-Then I clear my head of idle thoughts
-Then I start drifting my attention towards noting the sensations that arise
-Then I become mindful of the sensations that arise
-Then I note the sensations
-If I get distracted
-Then I turn my attention back to the meditation
+> As a meditator  
+> In order to meditate for $time  
+> Given the Clock app is open on a phone or tablet  
+> And the timer function is open  
+> And the time is set for $time  
+> When I start the timer  
+> Then I clear my head of idle thoughts  
+> Then I start drifting my attention towards noting the sensations that arise  
+> Then I become mindful of the sensations that arise  
+> Then I note the sensations  
+> If I get distracted  
+> Then I turn my attention back to the meditation  
 
 ### Examples:
 
