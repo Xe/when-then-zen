@@ -1,13 +1,11 @@
 # Terms
 
-```
-As the `When Then Zen` project attempts to extract techniques out of esoteric sources,
-In order to make these accessible to people who don't subscribe to metaphysical views,
-Given an open mind and a willingness to learn,
-And the willingness to try things that may lead you out of your comfort zone,
-When you read the features in this repository,
+As the `When Then Zen` project attempts to extract techniques out of esoteric sources  
+In order to make these accessible to people who don't subscribe to metaphysical views  
+Given an open mind and a willingness to learn  
+And the willingness to try things that may lead you out of your comfort zone  
+When you read the features in this repository  
 Then this document contains terms and plain English definitions.
-```
 
 This project aims to target the average software developer, and as such terms 
 such as `stateful` and `side effects` will be used.
@@ -36,10 +34,17 @@ State is effectively equivalent to human memory in the context of computer
 programs. An example JavaScript program that manages state follows:
 
 ```javascript
-let acc = 0;      // acc is set to zero
-acc++;            // acc is incremented to one
-console.log(acc); // prints `1`
+// number is set to zero
+let number = 0;
+
+// number is incremented to one
+number = number + 1;
+
+// prints `1`
+console.log(number); 
 ```
+
+The variable named `number` is the state of this code.
 
 ## The Body
 
