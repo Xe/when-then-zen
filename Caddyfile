@@ -7,6 +7,7 @@ when-then-zen.local.cetacean.club:5000 {
 	internal /Caddyfile
 	ext .md
 
+	browse /bonus
 	browse /meditation templates/index.html
 	browse /skills templates/index.html
 
