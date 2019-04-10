@@ -8,16 +8,19 @@
     <main>
       <nav class="nav">
 		    <a href="/">When Then Zen</a> -
-        <a href="/intro.md">Introduction</a> - 
-			  <a href="/terms.md">Terms</a> -
+        <a href="/intro">Introduction</a> - 
+			  <a href="/terms">Terms</a> -
 			  <a href="/meditation">Meditation</a> - 
 			  <a href="/skills">Skills</a>
 		  </nav>
 		  <h1>{{.Path}}</h1>
 
       <ul>
+        {{$dot := .}}
 	  	  {{range .Items}}
-	 	    <li><a href="{{html .URL}}">{{html .Name}}</a></li>
+          {{$path := $dot.StripExt .URL}}
+          {{$name := $dot.StripExt .Name}}
+  	 	    <li><a href="{{html $path}}">{{html $name}}</a></li>
 		    {{end}}
       </ul>
 
