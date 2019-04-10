@@ -1,14 +1,14 @@
 when-then-zen.local.cetacean.club:5000 {
 	tls off
 	root .
-  internal /README.md
+	internal /README.md
 	internal /templates
 	internal /LICENSE
 	internal /Caddyfile
-  ext .md
+	ext .md
 
-  browse /meditation templates/index.html
-  browse /skills templates/index.html
+	browse /meditation templates/index.html
+	browse /skills templates/index.html
 
 	markdown / {
 		template templates/page.html
