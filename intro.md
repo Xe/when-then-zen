@@ -99,7 +99,7 @@ presence and it will go away.
 
 At some level, I realize that by doing this I am violating some of the finer
 points behind the ultimate higher level reasons _why_ meditation has been
-taught this way for so long. Things are explained they way they are as a
+taught this way for so long. Things are explained the way they are as a
 result of the refinement of thousands of years of confused students and 
 sub-par teachers. A lot of it got so ingrained in the cuture that the actions
 themselves can be confused with the culture.
