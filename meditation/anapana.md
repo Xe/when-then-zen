@@ -10,8 +10,6 @@ The method presented in this article is based on the method taught in The Art Of
 
 Note: "the body" means the sack of meat and bone that you are currently living inside. For the purposes of explanation of this technique, please consider what makes you yourself separate from the body you live in.
 
-This article is a more verbose version of [the correlating feature from when-then-zen](https://github.com/Xe/when-then-zen/blob/master/meditation/anapana.feature).
-
 ## Background Assumptions of Reader
 
 > Given no assumption about meditation background  
