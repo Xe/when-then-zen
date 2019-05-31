@@ -157,7 +157,7 @@ $time can be, say, five minutes to start out.
 
 ### In order to meditate for $time
 
-The time is intentionally left as a variable so you can decide what session time length to use. If you need help deciding how long to pick, you can always try [tapering upwards](https://github.com/Xe/when-then-zen/blob/master/skills/tapering-upward.feature) over the course of a month. I find that tapering upwards helps A LOT.
+The time is intentionally left as a variable so you can decide what session time length to use. If you need help deciding how long to pick, you can always try [tapering upwards](https://github.com/Xe/when-then-zen/blob/master/skills/tapering-upward.md) over the course of a month. I find that tapering upwards helps A LOT.
 
 ### Given a timer of some kind is open
 
