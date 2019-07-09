@@ -68,7 +68,7 @@ In a pinch just target them with metta.
     And I note the sensation
     And the next person continues
     
-  Scenario: Debrief (meditator)
+## Scenario: Debrief (meditator)
     As a meditator
     In order to help the group understand the session
     Given questions or experiences to report
@@ -79,7 +79,7 @@ In a pinch just target them with metta.
     But I don't judge
     And I don't interrupt
     
-  Scenario: Debrief (facilitator)
+## Scenario: Debrief (facilitator)
     As a facilitator
     In order to help the group understand the session
     Given an order of people to ask
