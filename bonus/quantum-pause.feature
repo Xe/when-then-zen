@@ -13,7 +13,7 @@ Feature: The Quantum Pause
   experience, or even to conjure any "positive" experience when you are finished.
   It is not designed to create an experience of your mind or give you 
   visualizations of another world. If you feel, sense or experience anything
-  that is unrelated to your purpose: gently, but firmy remove it.
+  that is unrelated to your purpose: gently, but firmly remove it.
   
   Some people may find that the pause after the out-breath causes a sense of
   panic. If you feel this happen, pause for a shorter amount of time. I have
