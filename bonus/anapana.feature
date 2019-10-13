@@ -74,7 +74,7 @@ Feature: Anapana meditation
 
   Scenario Outline: imagery during breathing
     As a meditator
-    In order to symbolically link anapana to destressing
+    In order to symbolically link anapana to de-stressing
     Given an understanding that this is symbolic and not literal
     When I <verb>
     Then I feel <action>
