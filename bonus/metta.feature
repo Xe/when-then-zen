@@ -85,7 +85,7 @@ Feature: Loving-kindness (metta) meditation
 
   Scenario: Giving metta to someone else
     As a meditator
-    In order to give metta to seomeone else
+    In order to give metta to someone else
     Given envisioning that person in your head
     And aspects about them
     # Increase the session length with practice
