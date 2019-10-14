@@ -28,12 +28,12 @@ Feature: Social Noting
   Scenario: Positive intent
     # This is as simple as saying out loud or in mindvoice "With this
     # group meditation session, I intend to help the group understand 
-    # themeslves" or similar. Adjust as needed based on the topicality of the
+    # themselves" or similar. Adjust as needed based on the topicality of the
     # group in question and the context of the world that day in general.
     #
     # In a pinch just target them with metta.
     As a facilitator
-    In order to establish the postitive intent of this session
+    In order to establish the positive intent of this session
     Given a rough idea of the group you are leading for
     When you establish the positive intent
     Then you target the group with it

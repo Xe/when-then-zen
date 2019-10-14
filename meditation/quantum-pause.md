@@ -2,8 +2,8 @@
 
 The Quantum Pause is a meditative technique that serves as a very convenient
 tool for reaching a special space of neutrality and intention from which you
-can work on whatever you’d like internally. It is designed to reach a space 
-of contact with your inmost self, allowing you to work through situations by 
+can work on whatever you’d like internally. It is designed to reach a space
+of contact with your inmost self, allowing you to work through situations by
 their wisdom, and reinforcing their presence in the life of the individual.
 
 A longer introduction to this process is [here](http://wespenre.com/pdf/Appendix-cognitive-section-quantum-pause-breathing-exercise.pdf)
@@ -12,7 +12,7 @@ At a high level this is metta mixed with box breathing mixed with mindfulness.
 
 The purpose of this exercise is not to leave the body, have a "spiritual"
 experience, or even to conjure any "positive" experience when you are finished.
-It is not designed to create an experience of your mind or give you 
+It is not designed to create an experience of your mind or give you
 visualizations of another world. If you feel, sense or experience anything
 that is unrelated to your purpose: gently, but firmly remove it.
 
@@ -39,10 +39,10 @@ found they help immensely.
 > As a meditator  
 > In order to start this process  
 > When I have a purpose in mind  
-> Then I declare it aloud, saying "$intent".
-    
+> Then I declare it aloud, saying "\$intent".
+
 tl;dr: declare your intent before the first breath
-    
+
 ### Examples:
 
 | intent                                           |
@@ -65,15 +65,15 @@ tl;dr: declare your intent before the first breath
 > Then I continue for two to four measures
 
 Avoid the temptation to visualize, think or feel anything. Just let it happen without comment. The first pause is known as the I AM and the second is known as the WE ARE. Continue for as long as your gut says.
-    
+
 ## Scenario Outline: consolidation
 
-> As a meditatior  
+> As a meditator
 > In order to consolidate things  
 > When I notice things bubble up  
 > Then I take a fresh look at them  
 > And decide what I want to do with them  
-> Then I perform $action  
+> Then I perform \$action  
 > Then I repeat this for a few minutes  
 > Then I use my intuition to guide
 

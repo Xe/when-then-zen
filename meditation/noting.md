@@ -1,7 +1,7 @@
 # Feature: Noting
 
-Noting is a meditative practice where you give names or labels to the 
-feelings or sensations without other comment. It is something that is very 
+Noting is a meditative practice where you give names or labels to the
+feelings or sensations without other comment. It is something that is very
 easy to know, but can take a few times trying it to really understand it.
 
 This practice is well-known to Buddhists, where it has some other name, but
@@ -13,7 +13,7 @@ When you are noting something, try and reduce it to the most vague label you
 can. If you hear a sound, note hearing. If you feel thoughts, note thinking.
 Don't judge any thoughts that come up, you are probably used to having idle
 thought from the so-called "monkey mind". Practices like this have been known
-to aggrivate peoples "moneky minds", so forgive any feelings of frustration
+to aggravate peoples "monkey minds", so forgive any feelings of frustration
 or anger that may pop up. It's just an adjustment, like anything else.
 
 Definitely start with basic sensory noting before jumping into the free
@@ -27,7 +27,7 @@ If you want to read more, look here: https://www.insightmeditationcenter.org/boo
 > And a willingness to learn  
 > And I am seated comfortably  
 > And no music is playing
-    
+
 ## Scenario Outline: basic sensory noting
 
 > As a meditator  
@@ -36,7 +36,7 @@ If you want to read more, look here: https://www.insightmeditationcenter.org/boo
 > Then I will note $sense mentally or aloud  
 > Then I let it pass  
 > Then I repeat until done
-    
+
 ### Examples:
 
 | sense    |
@@ -55,7 +55,7 @@ If you want to read more, look here: https://www.insightmeditationcenter.org/boo
 > When I notice something happen  
 > Then I note it mentally or aloud  
 > Then I let it pass  
-> Then I repeat until done  
+> Then I repeat until done
 
 ## Scenario Outline: meditation session
 
@@ -70,7 +70,7 @@ If you want to read more, look here: https://www.insightmeditationcenter.org/boo
 > Then I become mindful of the sensations that arise  
 > Then I note the sensations  
 > If I get distracted  
-> Then I turn my attention back to the meditation  
+> Then I turn my attention back to the meditation
 
 ### Examples:
 

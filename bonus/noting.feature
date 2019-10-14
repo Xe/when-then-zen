@@ -12,7 +12,7 @@ Feature: Noting
   can. If you hear a sound, note hearing. If you feel thoughts, note thinking.
   Don't judge any thoughts that come up, you are probably used to having idle
   thought from the so-called "monkey mind". Practices like this have been known
-  to aggrivate peoples "moneky minds", so forgive any feelings of frustration
+  to aggravate peoples "monkey minds", so forgive any feelings of frustration
   or anger that may pop up. It's just an adjustment, like anything else.
   
   Definitely start with basic sensory noting before jumping into the free
