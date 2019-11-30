@@ -191,8 +191,6 @@ You'll know how much time is right by feel. Please study this [educational video
 
 The body is naturally able to breathe for you. You don't need to manually breathe during meditation. Not having to manually breathe means that your attention can focus on passively, neutrally observing the sensations of breath.
 
----
-
 ## Further Reading
 
 This is all material that I have found useful while running into "problems" (there aren't actually any good or bad things, only labels, but that's a topic for another day) while learning or teaching anapana meditation or the concepts of it. All of these articles have been linked in the topic, save three I want to talk about specially.

@@ -1,4 +1,8 @@
 ---
 title: When Then Zen
 author: Christine Dodrill
+
+documentclass: book
+links-as-notes: true
+fontfamily: bitter
 ---

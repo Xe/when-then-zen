@@ -6,3 +6,4 @@ title: "When Then Zen - eBook Edition"
 
 - [ePub/iBooks](./when-then-zen.epub)
 - [Kindle](./when-then-zen.mobi)
+- [PDF](./when-then-zen.pdf)

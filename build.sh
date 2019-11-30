@@ -20,4 +20,24 @@ skills/tapering-upward.md
 pandoc -o when-then-zen.epub \
        title.txt \
        $FILES
-pandoc -o when-then-zen.epub
+
+kindlegen when-then-zen.epub
+
+pandoc -o test.tex \
+       -s \
+       --variable=subparagraph \
+       --toc \
+       --pdf-engine xelatex \
+       --resource-path=. \
+       title.txt \
+       $FILES
+
+pandoc -o when-then-zen.pdf \
+       --include-in-header pagesize.tex \
+       --variable=subparagraph \
+       --toc \
+       --pdf-engine xelatex \
+       --resource-path=. \
+       title.txt \
+       $FILES
+
