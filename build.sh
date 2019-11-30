@@ -20,3 +20,4 @@ skills/tapering-upward.md
 pandoc -o when-then-zen.epub \
        title.txt \
        $FILES
+pandoc -o when-then-zen.epub
