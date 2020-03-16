@@ -37,6 +37,50 @@ following things to a mantra:
 > And a willingness to learn  
 > And I am seated or laying down comfortably
 
+### Given no assumption about meditation background
+
+The When Then Zen project aims to describe the finer points of meditative
+concepts in plain English. As such, we start assuming just about nothing and
+build fractally on top of concepts derived from common or plain English usage of
+the terms. Some of these techniques may be easier for people with a more
+intensive meditative background, but try things and see what works best for you.
+Meditation in general works a lot better when you have a curious and playful
+attitude about figuring things out.
+
+I'm not perfect. I don't know what will work best for you. A lot of this is
+documenting both my practice and what parts of what books helped me "get it". If
+this works for you, [please let me know](https://christine.website/contact). If
+this doesn't work for you, [please let me
+know](https://christine.website/contact). I will use this information for making
+direct improvements to these documents.
+
+As for your practice, twist the rules into circles and scrape out the parts that
+don't work if it helps you. Find out how to integrate it into your life in the
+best manner and go with it.
+
+For now, we start from square one.
+
+### And a willingness to learn
+
+At some level, you are going to need to be willing to actually [walk the
+path](https://write.as/mya249cn84nosg9r). This can be scary, but that's okay as
+long as you're willing to acknowledge it and not let it control you.
+
+If you run into some dark stuff doing this, please consult a therapist as usual.
+Just know that you don't walk this path alone, even when it feels like you must
+be.
+
+### And I am seated or laying down comfortably
+
+Some people will assert that the correct pose or posture is critical for this,
+but it's ultimately only as important as the meditator believes it is. Some
+people have gotten the association somehow that the meditation posture helps
+with things. Ultimately, it's suggested to start meditation sitting upright or
+in a chair as it can be easier for you to fall asleep while doing meditative
+practice for the first few times. This is a side effect of the brain not being
+used to the alternative state of consciousness, so it falls back on the
+"default" action; this puts the body, and you, to sleep.
+
 ## Scenario: Nature Walking
     
 > As a meditator  
@@ -49,6 +93,40 @@ following things to a mantra:
 This is optional  
 but it helps when you're starting  
 physical fitness.
+
+This suggestion was part of a summarized book on Buddhism that I read during the
+research part of this article. If you don't think this helps, cut it out. Try it
+at least once though.
+
+Something I've found is that doing my metta practice during this walk helps a
+lot. I personally do it during my walk to work.
+
+### As a meditator
+
+This is for you to help understand a process you do internally, to yourself.
+
+### In order to help me connect with the environment
+
+This step helps you to connect with the greater whole of our environment.
+
+### Given a short route to walk on
+
+Think 5-10 minutes. Just enough time for you to enjoy the scenery, but not too
+much that it intrudes into your daily responsibilities.
+
+### When I walk down the route
+
+As you are walking:
+
+### Then I should relax and enjoy the scenery
+
+Enjoy the ride 😁
+
+### And feel the sensations of the world around me
+
+Note the color of the leaves, the sidewalk, the road, the sky, the clouds, the
+trees, the river, the bridge, whatever is around you. All of that is a part of
+the world around you.
 
 ## Scenario: Giving Metta to Yourself
 
@@ -66,6 +144,12 @@ physical fitness.
 
 Adjust any numbers as needed, of course; these numbers are suggestions.
 
+### As a meditator
+
+This is for you to help understand a process you do internally, to yourself.
+
+### In order to give metta to others, I must first give it to myself
+
 This is done for three basic reasons:
 
 1. Setting yourself right. You can't love others if you can't love yourself
@@ -78,7 +162,15 @@ img {
 }
 </style>
 
-<center>![](https://i.imgur.com/P7MOfbP.jpg)</center>
+<center>![Are you a bad enough dude to love yourself?](https://i.imgur.com/P7MOfbP.jpg)</center>
+
+### Given envisoning yourself in your head
+
+By "envison" here, I mean thinking of. If you think visually, then it may help
+to visualize the mantras traveling to you. If you do not, then just see the
+mantras as messages coming to you.
+
+As always, skip this step if it feels uncomfortable or weird to you.
 
 ## Scenario: Negative Harmonic Affirmations for Metta Mantras to Self
 
@@ -92,9 +184,13 @@ img {
 > Then enforce the mantra "May I be at peace"  
 > And empty your heart of empathy for yourself  
 > Then enforce the mantra "May I be happy"  
-> And let this metta radiate out of you  
+> And feel the sensations that arise
     
-This is optional, I find it helpful on really bad days. The general idea is that your mind should be filled with the opposite of what the mantra suggests. IE: danger -> compassion, mental suffering -> friendliness, etc. The difference between what is spoken, felt and thought serves as a harmony of sorts. It can be very powerful.
+This is optional, I find it helpful on really bad days. The general idea is that
+your mind should be filled with the opposite of what the mantra suggests. IE:
+danger -> compassion, mental suffering -> friendliness, etc. The difference
+between what is spoken, felt and thought serves as a harmony of sorts. It can be
+very powerful.
 
 ## Scenario: Giving Metta to Someone Else
 
