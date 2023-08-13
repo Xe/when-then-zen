@@ -19,7 +19,7 @@ Feature: Loving-kindness (metta) meditation
   if that person is yourself. Generally as you are starting out it is best to
   choose people you consider loveable as targets for metta.
 
-  The method in this feature is based on metta as described in http://www.buddhanet.net/pdf_file/allmetta.pdf
+  The method in this feature is based on metta as described in [Loving-kindness Meditation by Ven. Sujiva](http://www.buddhanet.net/pdf_file/allmetta.pdf)
   This book HEAVILY slants into the Buddhist lens. If you read it, please be 
   prepared to scrape out the wisdom from its casing.
 

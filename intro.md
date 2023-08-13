@@ -83,7 +83,7 @@ feature:
 
 > Note: "the body" means the sack of meat and bone that you are currently living inside. For the purposes of explanation of this technique, please consider what makes you yourself separate from the body you live in.
 
-You are not your thoughts. Your thoughts are something [you can witness](https://github.com/Xe/when-then-zen/blob/master/bonus/noting.feature).
+You are not your thoughts. Your thoughts are something [you can witness](/bonus/noting.feature).
 You are not required to give your thoughts any attention they don't need. Try
 not immediately associating yourself with a few "negative" thoughts when they 
 come up next. Try digging through the chains of meaning to understand why they
@@ -105,7 +105,7 @@ sub-par teachers. A lot of it got so ingrained in the culture that the actions
 themselves can be confused with the culture.
 
 I do not plan to set too many expectations for what people will experience.
-When possible, [I tell people to avoid having "spiritual experiences"](https://github.com/Xe/when-then-zen/blob/master/bonus/quantum-pause.feature#L12-L16).
+When possible, [I tell people to avoid having "spiritual experiences"](/quantum-pause.feature#L12-L16).
 
 ## Other Topics I Want to Cover
 

@@ -19,7 +19,7 @@ Feature: Void Meditation
   falling asleep during meditation.
 
   This method is based on a method handed around occult practice IRC channels
-  and is adapted from this pastebin link: https://pastebin.com/7JCfUJKZ
+  and is adapted from this pastebin link: [Void Meditation - Pastebin](https://pastebin.com/7JCfUJKZ)
   Please note that the pastebin link is written in more of an occult/magickal
   lens and as such will use in-lens terminology.
 

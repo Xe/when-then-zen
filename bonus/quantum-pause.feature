@@ -5,7 +5,7 @@ Feature: The Quantum Pause
   of contact with your inmost self, allowing you to work through situations by 
   their wisdom, and reinforcing their presence in the life of the individual.
   
-  A longer introduction to this process is here: http://wespenre.com/pdf/Appendix-cognitive-section-quantum-pause-breathing-exercise.pdf
+  A longer introduction to this process is here: [The Quantum Pause Breathing Exercise](https://web.archive.org/web/20121224082813/http://wespenre.com/pdf/Appendix-cognitive-section-quantum-pause-breathing-exercise.pdf)
   
   At a high level this is metta mixed with box breathing mixed with mindfulness.
   
