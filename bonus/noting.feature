@@ -18,7 +18,7 @@ Feature: Noting
   Definitely start with basic sensory noting before jumping into the free
   noting. You'll know when it's time.
   
-  If you want to read more, look here: https://www.insightmeditationcenter.org/books-articles/articles/mental-noting/
+  If you want to read more, look here: [Mental Noting by Gil Fronsdal](https://www.insightmeditationcenter.org/books-articles/articles/mental-noting/)
   
   Background:
     Given no assumption about meditative background
