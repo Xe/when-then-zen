@@ -18,17 +18,18 @@ Feature: Paracosm Immersion
   visualize and experience things better. 
   
   It's really not hard unless you make it hard. Make it easy and it will be 
-  trivial. I have been noting my progress here: https://write.as/ma-insa/
+  trivial. I have been noting my progress here: [ma-insa — Write.as](https://write.as/ma-insa/)
   
-  If you want to read more on the topic, look here: https://en.wikipedia.org/wiki/Paracosm
-  This subreddit may also be useful: https://www.reddit.com/r/paracosms/
+  If you want to read more on the topic, look here: [Paracosm - Wikipedia](https://en.wikipedia.org/wiki/Paracosm)
+  This subreddit may also be useful: [r/paracosms/](https://www.reddit.com/r/paracosms/)
   
   > If you want to view paradise
   > Simply look around and view it
   > Anything you want to, do it
   > Want to change the world?
   > There's nothing to it
-  - Pure Imagination: https://youtu.be/SVi3-PrQ0pY
+  - Pure Imagination: [Gene Wilder - Pure Imagination](https://www.youtube.com/watch?v=SVi3-PrQ0pY)
+
   
   Background:
     Given you have a mental world in mind
