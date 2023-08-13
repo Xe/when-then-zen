@@ -12,7 +12,7 @@ Feature: Anapana meditation
 
   The method presented in this feature is based on the method taught in The Art
   Of Living by William Hart and S.N. Goenka. If you want a copy of this book you
-  can get one here: http://www.cicp.org.kh/userfiles/file/Publications/Art%20of%20Living%20in%20English.pdf
+  can get one here: [The Art of Living: Vipassana Meditation: As Taught by S. N. Goenka](https://web.archive.org/web/20160910121731/http://www.cicp.org.kh/userfiles/file/Publications/Art%20of%20Living%20in%20English.pdf)
   Please do keep in mind that this book definitely skews towards the Buddhist 
   lens and as it is presented the teaching methods really benefit from it.
 
